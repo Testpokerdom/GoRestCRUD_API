@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e9c68d4-4084-40fc-b1ac-3c26719864f9" name="Default Changelist" comment="" />
+    <list default="true" id="9e9c68d4-4084-40fc-b1ac-3c26719864f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Recources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Helpers/HelpJetSetbalues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Helpers/HelpGetSetValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestData/CreateNewUserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestData/CreateNewUserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Helpers/HelpJetSetbalues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestData/CreateNewUserData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestData/CreateNewUserData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestCRUD.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r7a8gnHu3yVYRYghZE10zYoXLd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -40,28 +51,31 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TestCRUD" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCRUD" type="TestNG" nameIsGenerated="true">
       <module name="GlobalLogicTestTaskViktorBibik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tests.*" />
+          <option name="PATTERN" value="API.Helpers.Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.TestCRUD" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.TestCRUD" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -88,11 +102,28 @@
       <workItem from="1618401620760" duration="766000" />
       <workItem from="1618403428209" duration="964000" />
       <workItem from="1618406383242" duration="1643000" />
-      <workItem from="1618408191175" duration="520000" />
+      <workItem from="1618408191175" duration="1208000" />
+      <workItem from="1618493231139" duration="1782000" />
+      <workItem from="1618495044165" duration="1766000" />
+      <workItem from="1618496853144" duration="647000" />
+      <workItem from="1618497516425" duration="619000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

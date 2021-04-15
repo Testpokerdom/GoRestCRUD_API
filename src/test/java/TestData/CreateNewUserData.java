@@ -14,11 +14,11 @@ public class CreateNewUserData {
 
     private static HashMap<String, String> getUserCreteData(){
         HashMap<String, String> map = new HashMap<>();
-        map.put("name", "Test_2021_04_14_V_04");
-        map.put("email", "Test_2021_04_14_V_04@mailinator.com");
+        map.put("name", "Test_2021_04_15_V_02");
+        map.put("email", "Test_2021_04_15_V_02@mailinator.com");
         map.put("gender", "Male");
         map.put("status", "Active");
-        map.put("namePatched", "Test_2021_04_14_V_04_patched");
+        map.put("namePatched", "Test_2021_04_15_V_02_patched");
         map.put("genderPatched", "Female");
         return map;
     }

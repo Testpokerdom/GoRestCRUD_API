@@ -1,6 +1,6 @@
 package Helpers;
 
-public class HelpJetSetbalues {
+public class HelpGetSetValues {
 
     private int convertedToString;
     private static String convertIntToString;
