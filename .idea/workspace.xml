@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e9c68d4-4084-40fc-b1ac-3c26719864f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Recources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringListNumbersSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Helpers/HelpJetSetbalues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Helpers/HelpGetSetValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestData/CreateNewUserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestData/CreateNewUserData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestCRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Helpers/HelpJetSetbalues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestData/CreateNewUserData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestData/CreateNewUserData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestCRUD.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +25,7 @@
   <component name="ProjectId" id="1r7a8gnHu3yVYRYghZE10zYoXLd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -50,7 +45,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringListNumbersSum">
+    <configuration name="StringListNumbersSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringListNumbersSum" />
+      <module name="GlobalLogicTestTaskViktorBibik" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCRUD" type="TestNG" nameIsGenerated="true">
       <module name="GlobalLogicTestTaskViktorBibik" />
       <extension name="coverage">
@@ -76,6 +78,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringListNumbersSum" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -106,7 +113,14 @@
       <workItem from="1618493231139" duration="1782000" />
       <workItem from="1618495044165" duration="1766000" />
       <workItem from="1618496853144" duration="647000" />
-      <workItem from="1618497516425" duration="619000" />
+      <workItem from="1618497516425" duration="1153000" />
+      <workItem from="1618498697034" duration="1630000" />
+      <workItem from="1618500784107" duration="1775000" />
+      <workItem from="1618502590962" duration="1489000" />
+      <workItem from="1618567171597" duration="628000" />
+      <workItem from="1618583642008" duration="1728000" />
+      <workItem from="1618585482739" duration="1778000" />
+      <workItem from="1618587290317" duration="753000" />
     </task>
     <servers />
   </component>
