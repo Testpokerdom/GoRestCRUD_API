@@ -10,7 +10,7 @@ public class StringListNumbersSum {
 
 
     public static void main(String[] args) throws IOException {
-        File file = new File("test.csv");
+        File file = new File("numbers.txt");
         BufferedReader reader = new BufferedReader(new FileReader(file));
 
         while ((digitalValueFromList = reader.readLine()) != null){
